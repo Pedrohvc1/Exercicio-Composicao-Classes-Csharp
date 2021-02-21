@@ -1,0 +1,26 @@
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.exe
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.deps.json
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.runtimeconfig.json
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.runtimeconfig.dev.json
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.dll
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.pdb
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.csprojAssemblyReference.cache
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.AssemblyInfoInputs.cache
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.AssemblyInfo.cs
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.csproj.CoreCompileInputs.cache
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.dll
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.pdb
+D:\ADS\Visual Studio 2019\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.genruntimeconfig.cache
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.exe
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.deps.json
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.runtimeconfig.json
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.runtimeconfig.dev.json
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.dll
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\bin\Debug\netcoreapp3.1\ExComposicao.pdb
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.csprojAssemblyReference.cache
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.AssemblyInfoInputs.cache
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.AssemblyInfo.cs
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.csproj.CoreCompileInputs.cache
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.dll
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.pdb
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\Secao9\ExComposicao\ExComposicao\obj\Debug\netcoreapp3.1\ExComposicao.genruntimeconfig.cache
