@@ -4,6 +4,8 @@ Seção 09
 
 Assunto : Composição
 
-**Diagramas base para solução**![image-20210221001858394](C:\Users\WINDOWS\AppData\Roaming\Typora\typora-user-images\image-20210221001858394.png)
+**Diagrama base para solução**
+![Diagrama](https://user-images.githubusercontent.com/62768931/108614884-34754780-73dd-11eb-8a84-a429118bd657.png)
 
-**Dados de entrada:**![image-20210221001956669](C:\Users\WINDOWS\AppData\Roaming\Typora\typora-user-images\image-20210221001956669.png)
+**Dados de entrada:**
+![Entrada de dados](https://user-images.githubusercontent.com/62768931/108614945-e745a580-73dd-11eb-87d3-56d28393e7c6.png)
